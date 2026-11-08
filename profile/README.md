@@ -9,7 +9,7 @@ Our flagship machine is the **Millennium Machines Milo V2.0**, a CNC milling mac
 
 ## Thank you
 
-Millennium Machines is built by volunteers. These people were part of the core team and helped build the Milo and its ecosystem. They have since stepped back from day-to-day maintenance, and we're grateful for everything they did.
+Millennium Machines is built by volunteers. These past maintainers were part of the core team and helped build the Milo and its ecosystem, and we're grateful for everything they did.
 
 - **[@8000ff](https://github.com/8000ff)** ported the Milo V1.5 manual from PDF to Markdown, set the STLs in their print orientation, and contributed Milo and Casa parts.
 - **[@bazil14](https://github.com/bazil14)** updated the Milo V1.5 print list and tool library, made rendered images for the documentation, and added the HOI spindle mounts to UserMods.
