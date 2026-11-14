@@ -7,7 +7,8 @@ Our flagship machine is the **Millennium Machines Milo V2.0**, a CNC milling mac
 ---
 ![CAD render of the Millennium Machines Milo V2.0 & Miley](https://github.com/MillenniumMachines/Milo-V2.0/blob/f703c541f34a9d15cdee08ca6a437a69381a0865/Images/Milo-Miley.png)
 
-## Thank you
+<details>
+<summary><b>Thank you to our past maintainers</b></summary>
 
 Millennium Machines is built by volunteers. These past maintainers were part of the core team and helped build the Milo and its ecosystem, and we're grateful for everything they did.
 
@@ -18,3 +19,4 @@ Millennium Machines is built by volunteers. These past maintainers were part of 
 - **[@EdwardChamberlain](https://github.com/EdwardChamberlain)** set up much of the documentation site, wrote the Long John and Casa build guides, and contributed fixes to the Milo V1.5 parts.
 - **[@Mobserva](https://github.com/Mobserva)** designed the Monoskirt, one of the first contributions to Milo V1.5.
 
+</details>
